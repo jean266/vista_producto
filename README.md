@@ -35,8 +35,8 @@ Los usuarios deben ser capaces de:
 
 ### Enlaces
 
-- URL de la solución: [Repositorio GitHub]()
-- URL del sitio en vivo: [Sitio en Netlify]()
+- URL de la solución: [Repositorio GitHub](https://github.com/jean266/vista_producto.git)
+- URL del sitio en vivo: [Sitio en Netlify](https://velvety-croissant-87ccd9.netlify.app/)
 
 ## Mi proceso
 
